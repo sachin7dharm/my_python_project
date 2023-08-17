@@ -1,1 +1,1 @@
-# my_python_project
+This is a shopping mall sales project.
